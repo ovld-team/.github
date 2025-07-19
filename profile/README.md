@@ -14,27 +14,27 @@ A comprehensive suite of elite technical services designed to build, secure, and
 
 - **Custom Software Development**  
   Architecting robust, scalable, and high-performance software solutions.  
-  [Learn More](#)
+  [Learn More](https://overlord.team)
 
 - **Blackbox Security Audits**  
   Uncovering critical vulnerabilities with elite penetration testing.  
-  [Learn More](#)
+  [Learn More](https://overlord.team)
 
 - **24/7 System Monitoring**  
   Proactive infrastructure monitoring for maximum uptime and performance.  
-  [Learn More](#)
+  [Learn More](https://overlord.team)
 
 - **Startup Acceleration & Management**  
   Technical firepower and strategic guidance to launch and scale.  
-  [Learn More](#)
+  [Learn More](https://overlord.team)
 
 - **DevOps & SecDevOps**  
   Automating and securing your delivery pipeline for rapid, reliable releases.  
-  [Learn More](#)
+  [Learn More](https://overlord.team)
 
 - **Strategic IT Consulting**  
   Expert guidance for your digital transformation journey.  
-  [Learn More](#)
+  [Learn More](https://overlord.team)
 
 ## Why 0VERL0RD?
 
